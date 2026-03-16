@@ -171,7 +171,7 @@ Content-Type: application/json
 }
 ```
 Проверки:
-```
+```JavaScript
 pm.test("Статус 200", function () {
     pm.response.to.have.status(200);
 });
@@ -201,7 +201,7 @@ Content-Type: application/json
 }
 ```
 **Проверки:**
-```
+```JavaScript
 pm.test("Статус 400", function () {
     pm.response.to.have.status(400);
 });
