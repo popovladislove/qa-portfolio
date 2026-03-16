@@ -217,10 +217,12 @@ pm.test("Ошибка — Missing password", function () {
 **Запрос:**
 
 DELETE https://reqres.in/api/users/2
+
 **Ответ:**
 204 No Content (пустое тело)
+
 **Проверки:**
-```
+```JavaScript
 pm.test("Статус 204", function () {
     pm.response.to.have.status(204);
 });
