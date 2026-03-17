@@ -10,7 +10,7 @@
 - Веб-тестирование: Chrome DevTools, работа с логами.
 - API: Postman, REST JSON, SOAP XML, Kafka.
 - Базы данных: SQL запросы в СУБД: MySQL, PostgreSQL.
-- Прочее: Понимание основ Java, HTML/CSS, Git, GitHub.
+- Прочее: Понимание основ Java и Python, HTML/CSS, Git, GitHub.
 
 [Сертификат](Certificate.pdf)
 
