@@ -15,7 +15,7 @@
 - Прочее: HTML/CSS, Git, GitHub.
 - Изучаю Java на базовом уровне для лучшего понимания разработки и дальнейшего роста в автоматизации тестирования.
 
-Учебный проект: [Java To-Do List](https://github.com/popovladislove/java-todo-list)
+- 📌 Учебный проект на Java: [To-Do List](https://github.com/popovladislove/java-todo-list)
 
 
 
