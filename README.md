@@ -4,15 +4,19 @@
 Начинающий QA-инженер с глубоким знанием теории тестирования и жизненного цикла ПО. 
 Изучаю тестирование на практике. 
 Умею составлять тестовую документацию, работать с DevTools,тестировать API, писать SQL-запросы.
+[Сертификат](Certificate.pdf)
 
 ## Навыки и инструменты
 - Инструменты: Jira, TestRail, Test it, Charles Proxy, Fiddler, Docker.
 - Веб-тестирование: Chrome DevTools, работа с логами.
 - API: Postman, REST JSON, SOAP XML, Kafka.
 - Базы данных: SQL запросы в СУБД: MySQL, PostgreSQL.
-- Прочее: Понимание основ Java и Python, HTML/CSS, Git, GitHub.
+- Прочее: HTML/CSS, Git, GitHub.
+- Изучаю Java на базовом уровне для лучшего понимания разработки и дальнейшего роста в автоматизации тестирования.
 
-[Сертификат](Certificate.pdf)
+Учебный проект: [Java To-Do List](https://github.com/popovladislove/java-todo-list)
+
+
 
 ## Контакты
 
