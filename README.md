@@ -93,4 +93,9 @@
 | 6 | [API-тесты](https://github.com/popovladislove/Wikipedia-Mobile-QA-Project/blob/main/04_API_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/API_%D1%82%D0%B5%D1%81%D1%82_%D0%BA%D0%B5%D0%B9%D1%81%D1%8B.md) | Проверка данных через публичный MediaWiki API |
 | 7 | [Итоговый отчет](https://github.com/popovladislove/Wikipedia-Mobile-QA-Project/blob/main/06_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BE%D1%82%D1%87%D0%B5%D1%82.md) | Summary по результатам тестирования |
 
-- 📌 Учебный проект на Java: [To-Do List](https://github.com/popovladislove/java-todo-list) — консольное приложение для управления задачами, созданное для практики Java Core, ООП и базовой логики CRUD-операций.
+## Учебный проект "Java To-Do List"
+
+Небольшое консольное приложение на Java для управления задачами.  
+Проект создан для практики Java Core, ООП и понимания логики CRUD-операций.
+
+🔗 [Ссылка на репозиторий](https://github.com/popovladislove/java-todo-list)
